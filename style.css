@@ -1,0 +1,14 @@
+#survey-form
+{
+    border: 1px solid black;
+}
+
+input
+{
+    display:block;
+}
+
+label
+{
+    padding-bottom: 20px;
+}
